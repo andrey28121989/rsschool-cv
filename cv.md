@@ -18,7 +18,7 @@ Hi! I am a person who changes his life and field of activity to web development.
 - VSCode
 - Figma
  
-**Code example**
+### **Code example**
 ```
 module.exports = function reverse (n) {
   return Math.abs(n).toString().split('').reverse().join(''); 
@@ -32,6 +32,7 @@ module.exports = function reverse (n) {
   - [Plants](https://rolling-scopes-school.github.io/andrey28121989-JSFEPRESCHOOL2022Q4/plants/)
   - [Momentum](https://andrey28121989-momentum.netlify.app/)\
   [Certificate](https://app.rs.school/certificate/upj3fxx0)
+
 ### **Education**
 
 #### 2022 - 2023
