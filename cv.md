@@ -37,6 +37,7 @@ module.exports = function reverse (n) {
 
 #### 2022 - 2023
 - Rolling Scopes School | Frontend Development, stage 1 | JavaScript
+
 - Rolling Scopes School | Frontend Development, stage 0 | HTML5, CSS3 (Sass/SCSS), JavaScript
 #### 2007 - 2012
 - Samara State Construction University
