@@ -31,8 +31,10 @@ module.exports = function reverse (n) {
 - Javascript Frontend | Rolling Scopes School, student
   - [Plants](https://rolling-scopes-school.github.io/andrey28121989-JSFEPRESCHOOL2022Q4/plants/)
   - [Momentum](https://andrey28121989-momentum.netlify.app/)
-  - [CSSBayan](https://andrey28121989.github.io/cssBayan/cssBayan/index.html)\
-  [Certificate](https://app.rs.school/certificate/upj3fxx0)
+  - [CSSBayan](https://andrey28121989.github.io/cssBayan/cssBayan/index.html)
+  - [Shelter](https://andrey28121989.github.io/shelter/shelter/index.html)
+
+    [Certificate](https://app.rs.school/certificate/upj3fxx0)
 
 ### **Education**
 
