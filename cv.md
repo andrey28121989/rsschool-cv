@@ -3,10 +3,10 @@
 ![Picture](img/cv_img.png)
 ## **Andrey Nenashev**
  
-Batumi, Georgia\
+Limassol, Cyprus\
 E-mail: anenashev89@gmail.com\
-Phone: +995 595-072-389\
-Discord: Andrey Nenashev#5348\
+Phone: +357 97-44-55-42\
+Discord: andrey_nenashev28\
 Telegram: @andreynen28
 ### **ABOUT ME**
 Hi! I am a person who changes his life and field of activity to web development. I want to improve my development skills. In the future, I would like to work in a strong team on extraordinary projects. My main goal is to become a front-end developer and help companies solve problems online.
@@ -30,7 +30,8 @@ module.exports = function reverse (n) {
 
 - Javascript Frontend | Rolling Scopes School, student
   - [Plants](https://rolling-scopes-school.github.io/andrey28121989-JSFEPRESCHOOL2022Q4/plants/)
-  - [Momentum](https://andrey28121989-momentum.netlify.app/)\
+  - [Momentum](https://andrey28121989-momentum.netlify.app/)
+  - [CSSBayan](https://andrey28121989.github.io/cssBayan/cssBayan/index.html)\
   [Certificate](https://app.rs.school/certificate/upj3fxx0)
 
 ### **Education**
