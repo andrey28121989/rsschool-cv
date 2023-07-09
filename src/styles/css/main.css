@@ -229,8 +229,24 @@ b {
   margin-left: 18px;
 }
 
+.courses a:hover {
+  color: black;
+  transition: 0.5s;
+}
+
 pre {
   color: rgb(67, 99, 78);
+}
+
+.projects {
+  list-style: circle;
+  color: rgb(67, 99, 78);
+  margin-left: 18px;
+}
+
+.projects a:hover {
+  color: black;
+  transition: 0.5s;
 }
 
 .languages {
