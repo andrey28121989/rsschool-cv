@@ -22,3 +22,17 @@
   color:rgb(67, 99, 78);
   text-decoration: underline;
 }
+
+
+@media screen and (max-width: 1279px) {
+  .nav-link {
+    padding: 0 7px;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .nav-link {
+    padding: 1px;
+  }
+}
