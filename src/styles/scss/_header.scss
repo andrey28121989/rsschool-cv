@@ -1,0 +1,22 @@
+.header {
+  background-color:gray;
+  color: white;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 18px 0;
+}
+
+.nav-link {
+  line-height: 50px;
+  transition: 3s;
+  padding: 0 16px;
+}
+
+.nav-link:hover {
+  color:rgb(148, 240, 240);
+  text-decoration: underline;
+}

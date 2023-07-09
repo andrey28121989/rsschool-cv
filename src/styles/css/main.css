@@ -1,0 +1,187 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+:focus,
+:active {
+  outline: none;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+header,
+footer,
+nav,
+aside {
+  display: block;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+input,
+button,
+textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+}
+
+p {
+  width: auto;
+  overflow-wrap: break-word;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header {
+  background-color: gray;
+  color: white;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 18px 0;
+}
+
+.nav-link {
+  line-height: 50px;
+  transition: 3s;
+  padding: 0 16px;
+}
+
+.nav-link:hover {
+  color: rgb(148, 240, 240);
+  text-decoration: underline;
+}
+
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 10px solid gray;
+  padding: 20px 20px;
+  width: 100%;
+}
+
+.section-name {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 130px;
+}
+
+.name {
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 10px;
+  margin-bottom: 30px;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 3px;
+}
+
+.section {
+  width: 48%;
+  padding: 10px;
+  padding-bottom: 35px;
+  border-bottom: 1px solid #536a70;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  margin: 20px 0;
+}
+
+.contacts-item {
+  padding: 5px 0;
+}
+
+.contacts-item a {
+  color: rgb(67, 99, 78);
+  transition: 0.5s;
+}
+
+.contacts-item a:hover {
+  color: black;
+  transition: 0.5s;
+}
+
+b {
+  color: black;
+  font-weight: bold;
+}
+
+.about-me {
+  color: rgb(67, 99, 78);
+}
