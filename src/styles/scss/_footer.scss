@@ -1,0 +1,31 @@
+.footer {
+  background-color: gray;
+  color: white;
+  padding: 18px;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.my-github {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.github-icon {
+  margin-right: 5px;
+}
+
+.my-github a:hover {
+  color: black;
+}
+
+
+
+
+
+

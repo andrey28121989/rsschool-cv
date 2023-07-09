@@ -1,0 +1,14 @@
+.projects {
+  list-style: circle;
+  color:rgb(67, 99, 78);
+  margin-left: 18px;
+}
+
+.projects a:hover {
+  color: black;
+  transition: 0.5s;
+}
+
+.section-projects {
+  border-bottom: 0;
+}
