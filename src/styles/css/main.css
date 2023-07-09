@@ -249,8 +249,42 @@ pre {
   transition: 0.5s;
 }
 
+.section-projects {
+  border-bottom: 0;
+}
+
 .languages {
   list-style: circle;
   color: rgb(67, 99, 78);
   margin-left: 18px;
+}
+
+.section-languages {
+  border-bottom: 0;
+}
+
+.footer {
+  background-color: gray;
+  color: white;
+  padding: 18px;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.my-github {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.github-icon {
+  margin-right: 5px;
+}
+
+.my-github a:hover {
+  color: black;
 }
