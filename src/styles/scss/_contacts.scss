@@ -1,0 +1,32 @@
+.section {
+  width: 48%;
+  padding: 10px;
+  padding-bottom: 35px;
+  border-bottom: 1px solid #536a70;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  margin: 20px 0;
+}
+
+.contacts-item {
+  padding: 5px 0;
+}
+
+.contacts-item a {
+  color:rgb(67, 99, 78);
+  transition: 0.5s;
+}
+
+.contacts-item a:hover {
+  color: black;
+  transition: 0.5s;
+}
+
+b {
+  color: black;
+  font-weight: bold;
+}
