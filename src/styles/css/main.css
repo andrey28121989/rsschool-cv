@@ -121,6 +121,16 @@ p {
   text-decoration: underline;
 }
 
+@media screen and (max-width: 1279px) {
+  .nav-link {
+    padding: 0 7px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .nav-link {
+    padding: 1px;
+  }
+}
 .section-profile {
   display: flex;
   justify-content: space-around;
@@ -223,6 +233,11 @@ b {
   background-color: black;
 }
 
+@media screen and (max-width: 767px) {
+  .level-skill-block {
+    grid-template-columns: repeat(5, 28px);
+  }
+}
 .courses {
   list-style: circle;
   color: rgb(67, 99, 78);

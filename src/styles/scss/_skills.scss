@@ -23,3 +23,9 @@
 .empty-block {
   background-color: black;
 }
+
+@media screen and (max-width: 767px) {
+  .level-skill-block {
+    grid-template-columns: repeat(5, 28px);
+  }
+}
