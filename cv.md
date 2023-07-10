@@ -29,7 +29,7 @@ module.exports = function reverse (n) {
 #### 2022 - 2023
 
 - Javascript Frontend | Rolling Scopes School, student
-  - [Plants](https://rolling-scopes-school.github.io/andrey28121989-JSFEPRESCHOOL2022Q4/plants/)
+  - [Plants](https://andrey28121989.github.io/plants/plants/)
   - [Momentum](https://andrey28121989-momentum.netlify.app/)
   - [CSSBayan](https://andrey28121989.github.io/cssBayan/cssBayan/index.html)
   - [Shelter](https://andrey28121989.github.io/shelter/shelter/index.html)
