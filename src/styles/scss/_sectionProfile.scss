@@ -1,15 +1,23 @@
-.section-profile {
-  display: flex;
-  justify-content: space-around;
+.profile {
   border-bottom: 10px solid gray;
-  padding: 20px 20px;
-  width: 100%;
 }
 
-.section-name {
+.profile__foto {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.section__name {
   text-align: center;
   text-transform: uppercase;
-  margin-top: 130px;
+  height: 330px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 10px solid gray;
 }
 
 .name {
