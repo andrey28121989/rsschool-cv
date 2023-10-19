@@ -1,8 +1,8 @@
 .section {
-  width: 48%;
   padding: 10px;
   padding-bottom: 35px;
   border-bottom: 1px solid #536a70;
+  width: 100%;
 }
 
 .title {
@@ -12,21 +12,25 @@
   margin: 20px 0;
 }
 
-.contacts-text {
+.contacts__text {
   list-style: none;
 }
 
-.contacts-item {
+.contacts__item {
   padding: 5px 0;
 }
 
-.contacts-item a {
+.contacts__item a {
   color:rgb(67, 99, 78);
   transition: 0.5s;
 }
 
-.contacts-item a:hover {
-  color: black;
+.contacts__text li:nth-child(6) {
+  font-size: 16.4px;
+}
+
+.contacts__item a:hover {
+  color:rgb(199, 209, 252);
   transition: 0.5s;
 }
 
