@@ -67,10 +67,6 @@ a:hover {
   text-decoration: none;
 }
 
-ul li {
-  list-style: none;
-}
-
 img {
   vertical-align: top;
 }
@@ -136,7 +132,7 @@ p {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  padding: 18px 0;
+  padding: 8px 0;
   list-style: none;
 }
 
@@ -221,8 +217,14 @@ p {
   transition: 0.5s;
 }
 
+.contacts__item img {
+  width: 28px;
+  height: 23px;
+  margin-right: 8px;
+}
+
 .contacts__text li:nth-child(6) {
-  font-size: 16.4px;
+  font-size: 17.8px;
 }
 
 .contacts__item a:hover {
@@ -241,6 +243,7 @@ b {
 
 .education {
   color: rgb(67, 99, 78);
+  list-style: circle;
 }
 
 .education b {
