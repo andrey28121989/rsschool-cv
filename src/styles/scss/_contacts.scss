@@ -4,42 +4,34 @@
   border-bottom: 1px solid #536a70;
   width: 100%;
 }
-
 .title {
   font-size: 22px;
   font-weight: 400;
   letter-spacing: 3px;
   margin: 20px 0;
 }
-
 .contacts__text {
   list-style: none;
 }
-
 .contacts__item {
   padding: 5px 0;
 }
-
 .contacts__item a {
   color:rgb(67, 99, 78);
   transition: 0.5s;
 }
-
 .contacts__item img {
   width: 28px;
   height: 23px;
   margin-right: 8px;
 }
-
 .contacts__text li:nth-child(6) {
   font-size: 17.8px;
 }
-
 .contacts__item a:hover {
   color:rgb(199, 209, 252);
   transition: 0.5s;
 }
-
 b {
   color: black;
   font-weight: bold;

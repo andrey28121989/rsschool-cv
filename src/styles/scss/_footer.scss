@@ -1,14 +1,11 @@
-
 .footer__wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   background-color: gray;
   color: white;
   padding: 10px 14px;
 }
-
 .my__github {
   display: flex;
   flex-direction: column;
@@ -16,7 +13,6 @@
   font-size: 14px;
   transition: all 0.5s;
 }
-
 .my__github:hover {
   transform: scale(1.2);
   transition: all 0.5s;

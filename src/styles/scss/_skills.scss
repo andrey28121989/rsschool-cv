@@ -2,12 +2,10 @@
   padding: 0px 0px 0px 0px;
   list-style: none;
 }
-
 .skill p {
   color: black;
   padding: 4px 0px 0px 6px;
 }
-
 .level-skill-block {
   display: grid;
   grid-template-columns: repeat(5, 58px);
@@ -15,15 +13,12 @@
   grid-gap: 2px;
   justify-content: start;
 }
-
 .filled-block {
   background-color: rgb(67, 99, 78);
 }
-
 .empty-block {
   background-color: black;
 }
-
 @media screen and (max-width: 767px) {
   .level-skill-block {
     grid-template-columns: repeat(5, 28px);

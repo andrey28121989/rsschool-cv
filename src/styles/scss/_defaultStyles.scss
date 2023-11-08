@@ -71,20 +71,17 @@ p {
   width: auto;
   overflow-wrap: break-word;
 }
-
 .container {
   max-width: 64rem;
   margin: 0 auto;
   width: 100%;
   box-shadow: 0px 0px 5px 2px #DBDBDB;
 }
-
 .main__container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
-
 .left__column {
   display: flex;
   flex-direction: column;
@@ -93,21 +90,17 @@ p {
   background-color: #f4f4f4;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
-
 .right__column {
   display: flex;
   flex-direction: column;
   flex-basis: 66%;
   padding: 20px 20px;
 }
-
 @media screen and (max-width: 819px) {
   .main__container{
     flex-direction: column;
   }
-
   .section {
     align-items: center;
   }
-
 }

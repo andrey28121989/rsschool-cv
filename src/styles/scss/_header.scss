@@ -2,7 +2,6 @@
   background-color:gray;
   color: white;
 }
-
 .nav__list {
   display: flex;
   justify-content: space-around;
@@ -11,19 +10,16 @@
   padding: 8px 0;
   list-style: none;
 }
-
 .nav__link {
   line-height: 50px;
   transition: 3s;
   padding: 0 16px;
   transition: 0.7s;
 }
-
 .nav__link:hover {
   color:rgb(199, 209, 252);
   text-decoration: underline;
 }
-
 @media screen and (max-width: 819px) {
   .nav__item {
     text-align: center;
